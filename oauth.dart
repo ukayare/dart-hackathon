@@ -1,10 +1,10 @@
 
 
 class oauth {
-  final String consumer_key = "vKUjr0mjjnUkRe6cbEDYg";
-  final String consumer_secret = "vKMrcQsO9gzDbz2b4wZBJvOOdMioJanJQ0FMMPEbzY";
-  String token = "96814807-Y9VKS0HMdXaGfVwP5MpUxLXn5JzvUY2egkzOGG9TN";
-  String token_secret = "xuJ5gVnDLy3dlYFvU4rRofrG0n3Q0UzAPDHH2lwBs";
+  final String consumer_key = "";
+  final String consumer_secret = "";
+  String token = "";
+  String token_secret = "";
   
   String GenerateSignature(String url){
     String ret=url;
